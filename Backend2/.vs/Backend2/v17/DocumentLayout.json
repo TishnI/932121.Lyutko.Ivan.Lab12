@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TISHA\\Downloads\\\u0412\u0410\u0416\u041D\u041E\u0415!\\\u041C\u0430\u0442\u0435\u0440\u044B\\3 \u043A\u0443\u0440\u0441\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Web\\\u041B\u0430\u0431\u044B\\Lab12\\Backend2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B2B620-7476-4172-97F5-FE19924AAE74}|Backend2\\Backend2.csproj|c:\\users\\tisha\\downloads\\\u0432\u0430\u0436\u043D\u043E\u0435!\\\u043C\u0430\u0442\u0435\u0440\u044B\\3 \u043A\u0443\u0440\u0441\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\web\\\u043B\u0430\u0431\u044B\\lab12\\backend2\\backend2\\views\\calc\\manual.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0B2B620-7476-4172-97F5-FE19924AAE74}|Backend2\\Backend2.csproj|solutionrelative:backend2\\views\\calc\\manual.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B2B620-7476-4172-97F5-FE19924AAE74}|Backend2\\Backend2.csproj|c:\\users\\tisha\\downloads\\\u0432\u0430\u0436\u043D\u043E\u0435!\\\u043C\u0430\u0442\u0435\u0440\u044B\\3 \u043A\u0443\u0440\u0441\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\web\\\u043B\u0430\u0431\u044B\\lab12\\backend2\\backend2\\controllers\\calccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B2B620-7476-4172-97F5-FE19924AAE74}|Backend2\\Backend2.csproj|solutionrelative:backend2\\controllers\\calccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B2B620-7476-4172-97F5-FE19924AAE74}|Backend2\\Backend2.csproj|c:\\users\\tisha\\downloads\\\u0432\u0430\u0436\u043D\u043E\u0435!\\\u043C\u0430\u0442\u0435\u0440\u044B\\3 \u043A\u0443\u0440\u0441\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\web\\\u043B\u0430\u0431\u044B\\lab12\\backend2\\backend2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0B2B620-7476-4172-97F5-FE19924AAE74}|Backend2\\Backend2.csproj|solutionrelative:backend2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B2B620-7476-4172-97F5-FE19924AAE74}|Backend2\\Backend2.csproj|c:\\users\\tisha\\downloads\\\u0432\u0430\u0436\u043D\u043E\u0435!\\\u043C\u0430\u0442\u0435\u0440\u044B\\3 \u043A\u0443\u0440\u0441\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\web\\\u043B\u0430\u0431\u044B\\lab12\\backend2\\backend2\\views\\calc\\manualwithseparatehandlers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0B2B620-7476-4172-97F5-FE19924AAE74}|Backend2\\Backend2.csproj|solutionrelative:backend2\\views\\calc\\manualwithseparatehandlers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B2B620-7476-4172-97F5-FE19924AAE74}|Backend2\\Backend2.csproj|c:\\users\\tisha\\downloads\\\u0432\u0430\u0436\u043D\u043E\u0435!\\\u043C\u0430\u0442\u0435\u0440\u044B\\3 \u043A\u0443\u0440\u0441\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\web\\\u043B\u0430\u0431\u044B\\lab12\\backend2\\backend2\\views\\calc\\modelbindinginparameters.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0B2B620-7476-4172-97F5-FE19924AAE74}|Backend2\\Backend2.csproj|solutionrelative:backend2\\views\\calc\\modelbindinginparameters.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B2B620-7476-4172-97F5-FE19924AAE74}|Backend2\\Backend2.csproj|c:\\users\\tisha\\downloads\\\u0432\u0430\u0436\u043D\u043E\u0435!\\\u043C\u0430\u0442\u0435\u0440\u044B\\3 \u043A\u0443\u0440\u0441\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\web\\\u043B\u0430\u0431\u044B\\lab12\\backend2\\backend2\\views\\calc\\modelbindinginseparatemodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0B2B620-7476-4172-97F5-FE19924AAE74}|Backend2\\Backend2.csproj|solutionrelative:backend2\\views\\calc\\modelbindinginseparatemodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModelBindingInSeparateModel.cshtml",
+              "DocumentMoniker": "C:\\Users\\TISHA\\Downloads\\\u0412\u0410\u0416\u041D\u041E\u0415!\\\u041C\u0430\u0442\u0435\u0440\u044B\\3 \u043A\u0443\u0440\u0441\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Web\\\u041B\u0430\u0431\u044B\\Lab12\\Backend2\\Backend2\\Views\\Calc\\ModelBindingInSeparateModel.cshtml",
+              "RelativeDocumentMoniker": "Backend2\\Views\\Calc\\ModelBindingInSeparateModel.cshtml",
+              "ToolTip": "C:\\Users\\TISHA\\Downloads\\\u0412\u0410\u0416\u041D\u041E\u0415!\\\u041C\u0430\u0442\u0435\u0440\u044B\\3 \u043A\u0443\u0440\u0441\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Web\\\u041B\u0430\u0431\u044B\\Lab12\\Backend2\\Backend2\\Views\\Calc\\ModelBindingInSeparateModel.cshtml",
+              "RelativeToolTip": "Backend2\\Views\\Calc\\ModelBindingInSeparateModel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T14:43:01.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ModelBindingInParameters.cshtml",
+              "DocumentMoniker": "C:\\Users\\TISHA\\Downloads\\\u0412\u0410\u0416\u041D\u041E\u0415!\\\u041C\u0430\u0442\u0435\u0440\u044B\\3 \u043A\u0443\u0440\u0441\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Web\\\u041B\u0430\u0431\u044B\\Lab12\\Backend2\\Backend2\\Views\\Calc\\ModelBindingInParameters.cshtml",
+              "RelativeDocumentMoniker": "Backend2\\Views\\Calc\\ModelBindingInParameters.cshtml",
+              "ToolTip": "C:\\Users\\TISHA\\Downloads\\\u0412\u0410\u0416\u041D\u041E\u0415!\\\u041C\u0430\u0442\u0435\u0440\u044B\\3 \u043A\u0443\u0440\u0441\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Web\\\u041B\u0430\u0431\u044B\\Lab12\\Backend2\\Backend2\\Views\\Calc\\ModelBindingInParameters.cshtml",
+              "RelativeToolTip": "Backend2\\Views\\Calc\\ModelBindingInParameters.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T14:42:52.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManualWithSeparateHandlers.cshtml",
+              "DocumentMoniker": "C:\\Users\\TISHA\\Downloads\\\u0412\u0410\u0416\u041D\u041E\u0415!\\\u041C\u0430\u0442\u0435\u0440\u044B\\3 \u043A\u0443\u0440\u0441\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Web\\\u041B\u0430\u0431\u044B\\Lab12\\Backend2\\Backend2\\Views\\Calc\\ManualWithSeparateHandlers.cshtml",
+              "RelativeDocumentMoniker": "Backend2\\Views\\Calc\\ManualWithSeparateHandlers.cshtml",
+              "ToolTip": "C:\\Users\\TISHA\\Downloads\\\u0412\u0410\u0416\u041D\u041E\u0415!\\\u041C\u0430\u0442\u0435\u0440\u044B\\3 \u043A\u0443\u0440\u0441\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Web\\\u041B\u0430\u0431\u044B\\Lab12\\Backend2\\Backend2\\Views\\Calc\\ManualWithSeparateHandlers.cshtml",
+              "RelativeToolTip": "Backend2\\Views\\Calc\\ManualWithSeparateHandlers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T16:55:48.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TISHA\\Downloads\\\u0412\u0410\u0416\u041D\u041E\u0415!\\\u041C\u0430\u0442\u0435\u0440\u044B\\3 \u043A\u0443\u0440\u0441\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Web\\\u041B\u0430\u0431\u044B\\Lab12\\Backend2\\Backend2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Backend2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TISHA\\Downloads\\\u0412\u0410\u0416\u041D\u041E\u0415!\\\u041C\u0430\u0442\u0435\u0440\u044B\\3 \u043A\u0443\u0440\u0441\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Web\\\u041B\u0430\u0431\u044B\\Lab12\\Backend2\\Backend2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Backend2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T07:24:29.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalcController.cs",
+              "DocumentMoniker": "C:\\Users\\TISHA\\Downloads\\\u0412\u0410\u0416\u041D\u041E\u0415!\\\u041C\u0430\u0442\u0435\u0440\u044B\\3 \u043A\u0443\u0440\u0441\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Web\\\u041B\u0430\u0431\u044B\\Lab12\\Backend2\\Backend2\\Controllers\\CalcController.cs",
+              "RelativeDocumentMoniker": "Backend2\\Controllers\\CalcController.cs",
+              "ToolTip": "C:\\Users\\TISHA\\Downloads\\\u0412\u0410\u0416\u041D\u041E\u0415!\\\u041C\u0430\u0442\u0435\u0440\u044B\\3 \u043A\u0443\u0440\u0441\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Web\\\u041B\u0430\u0431\u044B\\Lab12\\Backend2\\Backend2\\Controllers\\CalcController.cs",
+              "RelativeToolTip": "Backend2\\Controllers\\CalcController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T21:16:01.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Manual.cshtml",
+              "DocumentMoniker": "C:\\Users\\TISHA\\Downloads\\\u0412\u0410\u0416\u041D\u041E\u0415!\\\u041C\u0430\u0442\u0435\u0440\u044B\\3 \u043A\u0443\u0440\u0441\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Web\\\u041B\u0430\u0431\u044B\\Lab12\\Backend2\\Backend2\\Views\\Calc\\Manual.cshtml",
+              "RelativeDocumentMoniker": "Backend2\\Views\\Calc\\Manual.cshtml",
+              "ToolTip": "C:\\Users\\TISHA\\Downloads\\\u0412\u0410\u0416\u041D\u041E\u0415!\\\u041C\u0430\u0442\u0435\u0440\u044B\\3 \u043A\u0443\u0440\u0441\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Web\\\u041B\u0430\u0431\u044B\\Lab12\\Backend2\\Backend2\\Views\\Calc\\Manual.cshtml",
+              "RelativeToolTip": "Backend2\\Views\\Calc\\Manual.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T07:17:40.148Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
