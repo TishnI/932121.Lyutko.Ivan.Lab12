@@ -1,0 +1,23 @@
+﻿@model CalcModel
+@{
+}
+
+<h2>@ViewBag.Title</h2>
+
+@if (ViewBag.Result == null)
+{
+	@using (Html.BeginForm())
+	{
+		@Html.TextBox("firstNumber", "0", new { type = "number" })
+		<br>
+		@Html.DropDownList("operation", new SelectList(new string[] { "+", "-", "*", "/" }))
+		<br>
+		@Html.TextBox("secondNumber", "0", new { type = "number" })
+		<br>
+		<input type="submit">
+	}
+}
+else
+{
+	<p class="h3">@ViewBag.Result</p>
+}
